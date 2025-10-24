@@ -4,21 +4,13 @@
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
 
-  <!-- Created with XML-Sitemaps.com and updated manually for SEO -->
-  <url>
-    <loc>https://vickyjha2006kumar-max.github.io/Vicky-Tax-Accountant/</loc>
-    <lastmod>2025-10-24T05:49:07+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>1.0</priority>
-  </url>
 
-  <!-- Example (for future pages — uncomment if added)
-  <url>
-    <loc>https://vickyjha2006kumar-max.github.io/Vicky-Tax-Accountant/about.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  -->
+<url>
+  <loc>https://vickyjha2006kumar-max.github.io/Vicky-Tax-Accountant/</loc>
+  <lastmod>2025-10-24T05:49:07+00:00</lastmod>
+</url>
+
 
 </urlset>
