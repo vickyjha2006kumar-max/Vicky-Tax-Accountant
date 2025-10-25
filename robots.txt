@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://vickyjha2006kumarkumar-max.github.io/Vicky-Tax-Accountant/sitemap.xml
